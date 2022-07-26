@@ -25,4 +25,4 @@ jobs:
 
       - name: Tests with flake8 and django tests
         run: |
-          python -m flake
+          python -m flake8
